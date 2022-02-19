@@ -1,0 +1,6 @@
+/Users/demetsahinyenigul/Projects/PROJECT_1/PROJECT_1/bin/Debug/PROJECT_1.exe
+/Users/demetsahinyenigul/Projects/PROJECT_1/PROJECT_1/bin/Debug/PROJECT_1.pdb
+/Users/demetsahinyenigul/Projects/PROJECT_1/PROJECT_1/obj/Debug/PROJECT_1.csprojAssemblyReference.cache
+/Users/demetsahinyenigul/Projects/PROJECT_1/PROJECT_1/obj/Debug/PROJECT_1.csproj.CoreCompileInputs.cache
+/Users/demetsahinyenigul/Projects/PROJECT_1/PROJECT_1/obj/Debug/PROJECT_1.exe
+/Users/demetsahinyenigul/Projects/PROJECT_1/PROJECT_1/obj/Debug/PROJECT_1.pdb
